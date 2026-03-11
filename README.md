@@ -1,7 +1,8 @@
 # Disaster_Shield
 
-rest-express
+Rest-Express
 A modern full-stack web application built with React, TypeScript, Express, and PostgreSQL. This project provides a robust foundation for building scalable web applications with authentication, real-time capabilities, and a beautiful UI powered by Tailwind CSS and Radix UI components.
+More 
 
 🚀 Tech Stack
 Frontend
